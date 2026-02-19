@@ -1,0 +1,11 @@
+{
+  "domain": "easun_smw8",
+  "name": "Easun SMW 8kW Inverter",
+  "version": "1.0.0",
+  "documentation": "",
+  "requirements": ["pyserial==3.5"],
+  "dependencies": [],
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
