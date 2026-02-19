@@ -1,0 +1,6 @@
+{
+  "name": "Easun SMW 8kW Inverter",
+  "domains": ["sensor"],
+  "iot_class": "local_polling",
+  "homeassistant": "2023.1.0"
+}
