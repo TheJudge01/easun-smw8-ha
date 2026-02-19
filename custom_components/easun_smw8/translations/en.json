@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Easun SMW 8kW Inverter",
+        "description": "Configure serial connection to inverter",
+        "data": {
+          "port": "Serial Port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to inverter. Check port and cable.",
+      "unknown": "Unexpected error."
+    }
+  }
+}
