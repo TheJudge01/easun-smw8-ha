@@ -20,7 +20,7 @@ Local serial integration for Easun SMW 8kW inverter using the PI30 protocol over
 
 1. Add this repository to HACS as a custom repository:
    - HACS → Integrations → ⋮ → Custom repositories
-   - URL: `https://github.com/YOUR_USERNAME/easun-smw8-ha`
+   - URL: `https://github.com/TheJudge01/easun-smw8-ha`
    - Category: Integration
 2. Install "Easun SMW 8kW Inverter" from HACS
 3. Restart Home Assistant
